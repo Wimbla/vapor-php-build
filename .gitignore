@@ -1,2 +1,4 @@
 /vendor
 .env
+/.idea/vcs.xml
+/.idea/workspace.xml
